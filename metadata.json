@@ -1,0 +1,6 @@
+{
+  "name": "BeatStream",
+  "description": "An advanced, high-fidelity offline-first music streaming and player dashboard inspired by Spotify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
